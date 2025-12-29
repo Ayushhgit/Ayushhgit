@@ -164,16 +164,6 @@ me = AIEngineer()
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushhgit&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Ayush's%20Contribution%20Graph" width="95%"/>
 </p>
-
----
-
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushhgit&theme=radical&no-bg=true&column=4&margin-w=15" />
-</p>
-
 ---
 
 <!-- Connect Section -->
@@ -205,12 +195,6 @@ me = AIEngineer()
 </p>
 
 ---
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github-contribution-grid-snake.sloway.workers.dev/ayushhgit" alt="Snake Animation" />
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
