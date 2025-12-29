@@ -12,45 +12,23 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushhgit&label=Profile%20views&color=0e75b6&style=flat-square" alt="ayushhgit" />
-  <a href="https://github.com/ayushhgit?tab=followers"><img src="https://img.shields.io/github/followers/ayushhgit?label=Followers&style=flat-square&color=0e75b6" alt="Followers" /></a>
-</p>
-
----
-
-### 🚀 About Me
-- 🧠 I’m currently deep-diving into **Artificial Intelligence & Machine Learning**
-- 💻 My expertise lies in **Java, Python, and Building RAG Systems**
-- ⚡ **Fun Fact:** I'm fine-tuning LLMs to create digital clones of myself!
-- 📫 Reach me at: **ayushraj2005.muz@gmail.com**
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,html,css,mysql" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,linux,git,android,opencv" />
-</p>
-
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushhgit&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhgit&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushhgit&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhgit&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhgit&theme=radical&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhgit&theme=radical&hide_border=true&cache_seconds=1800" width="100%" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushhgit&theme=radical&no-bg=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushhgit&theme=radical&no-bg=true&column=4&margin-w=15" />
 </p>
 
 ---
@@ -64,5 +42,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-grid-snake.sloway.workers.dev/ayushhgit" alt="Snake Animation" />
+  <img src="https://github.com/ayushhgit/ayushhgit/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
