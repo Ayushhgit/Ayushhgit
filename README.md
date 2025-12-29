@@ -152,14 +152,12 @@ me = AIEngineer()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/ayushhgit">
-    <img height="180em" src="https://github-readme-stats-ayushhgit.vercel.app/api?username=ayushhgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-ayushhgit.vercel.app/api/top-langs/?username=ayushhgit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushhgit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&cache_seconds=1800" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhgit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayushhgit&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhgit&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&cache_seconds=1800" width="70%" />
 </p>
 
 <!-- Activity Graph -->
@@ -173,7 +171,7 @@ me = AIEngineer()
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushhgit&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushhgit&theme=radical&no-bg=true&column=4&margin-w=15" />
 </p>
 
 ---
@@ -208,9 +206,9 @@ me = AIEngineer()
 
 ---
 
-<!-- Animated Footer Decoration -->
+<!-- Snake Animation -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+  <img src="https://github-contribution-grid-snake.sloway.workers.dev/ayushhgit" alt="Snake Animation" />
 </p>
 
 <!-- Footer -->
