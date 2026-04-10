@@ -182,7 +182,7 @@ me = AIEngineer()
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=20BEFF" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/ayrax_codes" target="_blank">
+  <a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
   </a>
 </p>
